@@ -16,4 +16,5 @@ Ce projet vise à créer un tableau de bord interactif pour l'analyse des ventes
 - **sql scripts** : Contient les scripts SQL pour l'extraction et la transformation des données.
 - **Exported data files** : Emplacement des fichiers CSV exportés.
 - **Sales-Analysis.pbix** : Tableau de bord Power BI pour l'analyse des ventes.
+  
 https://github.com/Yacinetetah/Projet-d-Analyse-des-Ventes/blob/main/dashboard%20img/sales%20overview.PNG
